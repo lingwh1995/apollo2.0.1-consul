@@ -126,7 +126,7 @@
 					<execution>
 						<phase>package</phase>
 						<goals>
-							<goal>single</goal>
+							<goal>repackage</goal>
 						</goals>
 						<configuration>
 							<finalName>${project.artifactId}-${project.version}-${package.environment}</finalName>
