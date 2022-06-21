@@ -6,3 +6,11 @@
     spring.cloud.consul.host=127.0.0.1
     spring.cloud.consul.port=8500
 4.运行build.sh/build.bat
+5.在下面三个位置找到编译好的jar包
+    apollo-adminservice/target
+    apollo-configservice/target
+    apollo-openapi/target
+6.在下面三个位置找到编译好的jar包
+    apollo-adminservice/target
+    apollo-configservice/target
+    apollo-portal/target
